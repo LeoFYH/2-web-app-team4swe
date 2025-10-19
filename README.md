@@ -97,4 +97,4 @@ Enter the following command in your terminal:
 ## Task boards
 
 Link: https://github.com/swe-students-fall2025/2-web-app-team4swe/projects?query=is%3Aopen
-
+User stories' link: https://github.com/swe-students-fall2025/2-web-app-team4swe/issues/14
