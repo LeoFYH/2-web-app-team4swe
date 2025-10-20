@@ -24,6 +24,7 @@
             <form method="post" action="{{ url_for('logout') }}" style="display:inline">
               <button class="icon-btn" title="Sign out">⎋</button>
             </form>
+            <a class="icon-btn" href="{{ url_for('search') }}"><span>🔍</span></a>
           {% else %}
             <a class="icon-btn" href="{{ url_for('login') }}" title="Sign in">🔒</a>
           {% endif %}
